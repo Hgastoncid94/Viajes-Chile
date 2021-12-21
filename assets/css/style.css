@@ -1,6 +1,8 @@
 body {
     background-color: #000;
     color: #fff;
+    margin: 0px;
+    padding: 0px;
 }
 
 .fondo {
@@ -31,4 +33,14 @@ body {
 
 .paisaje-cuatro {
     background-image: url('../img/card4.jpg');
+}
+
+
+.contacto{
+    height: 750px;
+}
+
+.ancla{
+    text-decoration: none;
+    color: #fff;
 }
