@@ -1,7 +1,3 @@
-$(function () {
-    $('[data-toggle="tooltip"]')
-})
-
 $('.modelaje-paisaje').mouseover(function () {
     $(this).css('opacity',0.5)
 })
